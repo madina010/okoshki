@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right, cornflowerblue 20%, rgb(171, 117, 221));
+}
+.pushbar_main_content button {
+    background-color: rgb(171, 117, 221);
+    border-color: aliceblue;
+    color: #fff;
+}
+.pushbar_main_content {
+    color: #fff;
+}
+div.opened {
+    background-color:  #652065;
+    color: #fff;
+}
+div.opened button {
+    background-color: cornflowerblue;
+    border-color: #fff;
+    color: #fff;
+}
